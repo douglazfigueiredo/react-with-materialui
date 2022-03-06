@@ -19,5 +19,12 @@ export const LightTheme = createTheme({
       paper: '#FFFFFF',
       default: '#F7F6F3',
     }
+  },
+  typography: {
+    fontFamily: 'Quicksand',
+    fontWeightLight: 400,
+    fontWeightRegular: 500,
+    fontWeightMedium: 600,
+    fontWeightBold: 700,
   }
 })
